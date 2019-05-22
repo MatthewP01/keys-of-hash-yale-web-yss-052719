@@ -9,5 +9,4 @@ class Hash
       end
     end
   return array_output
-  
 end
