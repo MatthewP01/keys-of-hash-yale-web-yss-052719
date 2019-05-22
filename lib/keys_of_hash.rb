@@ -16,7 +16,7 @@ class Hash
     self.each do |key, value|
       arguments.each do |i|
         if i == value
-        array.push(key)
+        array << key
         end
       end
     end
