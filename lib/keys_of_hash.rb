@@ -19,10 +19,8 @@ class Hash
         array.push(key)
         end
       end
-
-
     end
     return array
   end
 
-end 
+end
