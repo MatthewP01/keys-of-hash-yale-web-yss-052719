@@ -4,6 +4,6 @@ class Hash
     Hash.each |key, value|
       arguments.each do |place|
         if value == place
-          return key
+        array_output  << key
   end
 end
