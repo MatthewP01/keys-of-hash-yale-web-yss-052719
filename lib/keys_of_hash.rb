@@ -3,6 +3,6 @@ class Hash
     array_output = []
     Hash.each |key, value|
       arguments.each do |place|
-        
+        if 
   end
 end
