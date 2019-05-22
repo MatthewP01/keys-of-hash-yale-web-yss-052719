@@ -4,7 +4,7 @@ class Hash
     Hash.each do |key, value|
       arguments.each do |place|
         if value == place
-        array_output  << key
+          array_output  << key
       end
     end
   end
