@@ -3,7 +3,7 @@ class Hash
     array_output = []
     self.each do |key, value|
       arguments.each do |place|
-        if value == place
+        if place == value
           array_output  << key
         end
       end
