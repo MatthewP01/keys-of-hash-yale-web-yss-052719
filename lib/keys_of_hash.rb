@@ -5,5 +5,7 @@ class Hash
       arguments.each do |place|
         if value == place
         array_output  << key
+      end
+    end
   end
 end
