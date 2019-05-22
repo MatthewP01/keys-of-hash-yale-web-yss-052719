@@ -22,5 +22,4 @@ class Hash
     end
     return array_out
   end
-
 end
